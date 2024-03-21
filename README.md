@@ -14,6 +14,8 @@ API staff is supposed to be run using port 8080 (only)
   ## How it looks like:
     
 ### Start  
+
+  #### Total 103 people
   
 ![home](./!resources/media/start.png)    
     
