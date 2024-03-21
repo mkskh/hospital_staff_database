@@ -1,0 +1,28 @@
+INSERT INTO candidates_candidate
+(first_name, last_name, city, email, phone, age, gender, university, profession)
+VALUES
+('Isabella', 'Morales', 'Chicago', 'isabella.morales@example.com', '+1770987654', 36, 'FEMALE', 'Northwestern University', 'Gynaecologist'),
+('Ethan', 'Rossi', 'Houston', 'ethan.rossi@example.com', '+1289456789', 39, 'MALE', 'Rice University', 'Neurologist'),
+('Avery', 'Evans', 'Los Angeles', 'avery.evans@example.com', '+1325678901', 37, 'FEMALE', 'University of Southern California', 'Radiologist'),
+('Alexander', 'Martinez', 'New York', 'alexander.martinez@example.com', '+1214908765', 41, 'MALE', 'New York University', 'Cardiologist'),
+('Sofia', 'Garcia', 'Miami', 'sofia.garcia@example.com', '+1956789012', 35, 'FEMALE', 'University of Miami', 'Dermatologist'),
+('Benjamin', 'Fisher', 'San Francisco', 'benjamin.fisher@example.com', '+1415987632', 40, 'MALE', 'University of California, Berkeley', 'Endocrinologist'),
+('Mia', 'Wang', 'Dallas', 'mia.wang@example.com', '+1978654321', 38, 'FEMALE', 'Southern Methodist University', 'Pediatrician'),
+('Michael', 'Green', 'Phoenix', 'michael.green@example.com', '+1609456789', 42, 'MALE', 'Arizona State University', 'Emergency physician'),
+('Liam', 'Lee', 'Seattle', 'liam.lee@example.com', '+1209876543', 33, 'MALE', 'University of Washington', 'Gastroenterologist'),
+('Charlotte', 'White', 'Boston', 'charlotte.white@example.com', '+1617458963', 34, 'FEMALE', 'Boston University', 'Oncologist'),
+('Harper', 'Rodriguez', 'Chicago', 'harper.rodriguez@example.com', '+1770987654', 36, 'FEMALE', 'Northwestern University', 'Ophthalmologist'),
+('Daniel', 'Stewart', 'Houston', 'daniel.stewart@example.com', '+1289456789', 39, 'MALE', 'Rice University', 'Gynaecologist'),
+('Amelia', 'Collins', 'Los Angeles', 'amelia.collins@example.com', '+1325678901', 37, 'FEMALE', 'University of Southern California', 'Neurologist'),
+('Henry', 'Mitchell', 'New York', 'henry.mitchell@example.com', '+1214908765', 41, 'MALE', 'New York University', 'Radiologist'),
+('Oliver', 'Perez', 'Miami', 'oliver.perez@example.com', '+1956789012', 35, 'MALE', 'University of Miami', 'Cardiologist'),
+('Emma', 'Hernandez', 'San Francisco', 'emma.hernandez@example.com', '+1415987632', 40, 'FEMALE', 'University of California, Berkeley', 'Dermatologist'),
+('Ava', 'Wang', 'Dallas', 'ava.wang@example.com', '+1978654321', 38, 'FEMALE', 'Southern Methodist University', 'Endocrinologist'),
+('Noah', 'Johnson', 'Phoenix', 'noah.johnson@example.com', '+1609456789', 42, 'MALE', 'Arizona State University', 'Pediatrician'),
+('William', 'Harris', 'Seattle', 'william.harris@example.com', '+1209876543', 33, 'MALE', 'University of Washington', 'Emergency physician'),
+('Sophia', 'Garcia', 'Boston', 'sophia.garcia@example.com', '+1617458963', 34, 'FEMALE', 'Boston University', 'Gastroenterologist'),
+('Liam', 'Gonzalez', 'Chicago', 'liam.gonzalez@example.com', '+1770987654', 36, 'MALE', 'Northwestern University', 'Ophthalmologist'),
+('Sophia', 'Rodriguez', 'Houston', 'sophia.rodriguez@example.com', '+1289456789', 39, 'FEMALE', 'Rice University', 'Gastroenterologist'),
+('Mason', 'Martinez', 'Los Angeles', 'mason.martinez@example.com', '+1325678901', 37, 'MALE', 'University of Southern California', 'Physicians'),
+('Aria', 'Lopez', 'New York', 'aria.lopez@example.com', '+1214908765', 41, 'FEMALE', 'New York University', 'Oncologist'),
+('Oliver', 'Hernandez', 'Miami', 'oliver.hernandez@example.com', '+1956789012', 35, 'MALE', 'University of Miami', 'Dermatologist');
