@@ -2,7 +2,7 @@
 
 ### A Django project that receives information from its own created API.
   
-API_staff (my own API) is supposed to be run using port 8080 (only)  
+API from "API_staff" folder (my own API) is supposed to be run using port 8080 (only)  
   
 1. run api using 8080 port  
 2. run Hospital Staff Database (using standard port 8000)  
