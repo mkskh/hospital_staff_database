@@ -1,9 +1,11 @@
 # hospital_staff_database
+
+### A Django project that receives information from its own created API.
   
-API staff is supposed to be run using port 8080 (only)  
+API_staff (my own API) is supposed to be run using port 8080 (only)  
   
 1. run api using 8080 port  
-2. pun Hospital Staff Database (using standard port 8000)  
+2. run Hospital Staff Database (using standard port 8000)  
     
 
 ## Search system was implemented.  
